@@ -1,0 +1,2 @@
+# funny
+a funny project
